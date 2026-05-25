@@ -1,8 +1,8 @@
 ## Ex-4 Deployment and configuration of a Private Cloud in AWS
 
 ### DATE:
-## Name: MITRAN R
-## Reg. No.: 212224040192
+## Name: Jude Clement Jose G
+## Reg. No.: 212224230109
 
 ## Aim:
 To set up of a Private Cloud in AWS.
